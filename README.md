@@ -24,16 +24,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikhibrahim2000&show_icons=true&theme=tokyonight&v=2" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaikhibrahim2000&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhibrahim2000&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ### 🚀 Projects Showcase
 
 
